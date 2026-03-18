@@ -1,3 +1,12 @@
+---
+title: Your copy is diagnostic
+author: Justin Gagne
+description: When copy is broken, something upstream is broken. Three patterns, one exercise.
+# Build commands:
+# HTML: npx @marp-team/marp-cli copy-diagnostics.md -o copy-diagnostics.html
+# PDF: npx @marp-team/marp-cli copy-diagnostics.md -o copy-diagnostics.pdf
+---
+
 ## What is the copy telling you?
 
 <!-- _class: small-table -->
