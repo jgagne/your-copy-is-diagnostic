@@ -617,9 +617,9 @@ Whenever copy feels broken, ask what it’s telling you. The answer is usually u
 ## Copy that, resources
 
 **UX and copy**
-- [Content Guide](https://guides.18f.gov/content-guide/) by 18F
-- [Placeholders in Form Fields Are Harmful](https://www.nngroup.com/articles/form-design-placeholders/) by Nielsen Norman Group
+- [Content Guide](https://github.com/18F/content-guide) by 18F
 - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/) by Nikita “Tonsky” Prokopov
+- [Placeholders in Form Fields Are Harmful](https://www.nngroup.com/articles/form-design-placeholders/) by Nielsen Norman Group
 - [URLs are UI](https://www.hanselman.com/blog/urls-are-ui) by Scott Hanselman
 - [Mailbag: URLs as UI](https://unsung.aresluna.org/mailbag-urls-as-ui/) by Marcin Wichary
 
