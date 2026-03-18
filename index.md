@@ -59,7 +59,7 @@ The copy is where the problem becomes visible.
 1. Copy that stops you
 2. Copy that confuses you
 3. Copy that needs care
-4. TK: Exercise and discussion
+4. TK: exercise and discussion
 
 ---
 
@@ -509,7 +509,7 @@ Google works because it never asks you to decide anything before you can use it.
 ## Every tooltip adds a decision
 
 Every hidden label adds a question.
-That’s Hick’s Law - the more choices, the longer it takes.
+That’s Hick’s Law: the more choices, the longer it takes.
 
 The best copy gives you immediate value. No hunting required.
 
