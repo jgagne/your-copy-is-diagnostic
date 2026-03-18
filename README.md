@@ -19,7 +19,8 @@ npx @marp-team/marp-cli index.md -o your-copy-is-diagnostic.pdf
 
 ## Cheat sheet
 
-- [copy-diagnostics.md](copy-diagnostics.md) (one-slide diagnostic reference)
+- [Copy diagnostics](https://jgagne.github.io/your-copy-is-diagnostic/copy-diagnostics.html)
+- [copy-diagnostics.md](copy-diagnostics.md) (source)
 
 ```bash
 # HTML
@@ -31,4 +32,4 @@ npx @marp-team/marp-cli copy-diagnostics.md -o copy-diagnostics.pdf
 
 ## License
 
-[CC BY 4.0](LICENSE) Justin Gagne
+[CC BY 4.0](LICENSE), Justin Gagne
