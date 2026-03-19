@@ -7,7 +7,7 @@ When copy is broken, something upstream is broken. Three patterns, one exercise.
 - [Your copy is diagnostic](https://jgagne.github.io/your-copy-is-diagnostic/)
 - [index.md](index.md) (source)
 
-**Build commands**
+Build commands:
 
 ```bash
 # HTML
@@ -21,6 +21,8 @@ npx @marp-team/marp-cli index.md -o your-copy-is-diagnostic.pdf
 
 - [Copy diagnostics](https://jgagne.github.io/your-copy-is-diagnostic/copy-diagnostics.html)
 - [copy-diagnostics.md](copy-diagnostics.md) (source)
+
+Build commands:
 
 ```bash
 # HTML
