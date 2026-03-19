@@ -17,7 +17,7 @@ style: |
 
 # Your copy is diagnostic
 
-Product team offsite, March 17, 2026
+Product teams offsite, March 17, 2026
 
 Justin Gagne, Senior UX Writer<br>
 `justin.gagne@apify.com`
