@@ -2,8 +2,6 @@
 
 When copy is broken, something upstream is broken. Three patterns, one exercise.
 
-Built with [Marp](https://marp.app).
-
 ## Slides
 
 - [Your copy is diagnostic](https://jgagne.github.io/your-copy-is-diagnostic/)
@@ -29,6 +27,8 @@ npx @marp-team/marp-cli copy-diagnostics.md -o copy-diagnostics.html
 # PDF
 npx @marp-team/marp-cli copy-diagnostics.md -o copy-diagnostics.pdf
 ```
+
+Built with [Marp](https://marp.app).
 
 ## License
 
