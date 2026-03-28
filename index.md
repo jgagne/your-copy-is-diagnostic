@@ -169,14 +169,6 @@ In the EU, this violates GDPR and ePrivacy law. The banner may also fail accessi
 
 ---
 
-![bg Apify’s updated cookie notice.](img/apify-cookie-notice-suggested-1920w.png)
-
----
-
-![bg Apify’s updated cookie notice, dark modal version.](img/apify-cookie-notice-modal-after-1920w.png)
-
----
-
 ## The words should feel face-to-face
 
 | RTFM | Direct | Human |
@@ -189,6 +181,14 @@ In the EU, this violates GDPR and ePrivacy law. The banner may also fail accessi
 > **Be genuine: write authentically, as if talking to someone face-to-face.**
 >
 > — Apify style guide
+
+---
+
+![bg Apify’s updated cookie notice.](img/apify-cookie-notice-suggested-1920w.png)
+
+---
+
+![bg Apify’s updated cookie notice, dark modal version.](img/apify-cookie-notice-modal-after-1920w.png)
 
 ---
 
