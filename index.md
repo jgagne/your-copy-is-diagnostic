@@ -24,7 +24,7 @@ Justin Gagne, Senior UX Writer<br>
 
 ---
 
-## I Write, I Build
+## I write, I build
 
 Hi, I’m Justin Gagne. Senior UX Writer at Apify.
 
@@ -34,7 +34,7 @@ I believe writing is designing.
 
 ---
 
-## Pull, Write, Push
+## Pull, write, push
 
 ![bg right:60% fit BBEdit Figma Bridge plugin.](img/bbedit-figma-bridge-1920w.png)
 
@@ -607,7 +607,8 @@ You don’t need a diagnosis, just a finding.
 - Copy that needs care
 - Copy that’s missing
 
-Whenever copy feels broken, ask what it’s telling you. The answer is usually upstream.
+Whenever copy feels broken, ask what it’s telling you.
+The answer is usually upstream.
 
 ---
 
