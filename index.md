@@ -356,7 +356,7 @@ TK almost never appears in English naturally. Easy to search, no false positives
 // TODO: add error message for failed payment
 TK: error message copy (2 lines max)
 To come: onboarding tooltip
-[Amount label] <- needs final copy before launch
+[Amount label] <= needs final copy before release
 ```
 
 The notation changes. The problem doesn’t.
