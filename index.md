@@ -612,6 +612,17 @@ The answer is usually upstream.
 
 ---
 
+## Copy doesn’t lie
+
+It just takes practice
+to hear what it’s saying.
+
+*Thanks, díky, merci.*
+
+`justin.gagne@apify.com`
+
+---
+
 ## What is the copy telling you?
 
 <!-- _class: small-table -->
@@ -649,16 +660,5 @@ The answer is usually upstream.
 - Copy that needs care: [Zeigarnik Effect](https://lawsofux.com/zeigarnik-effect/)
 - Copy that’s missing: [Hick’s Law](https://lawsofux.com/hicks-law/)
 - When you’re stuck: [Miller’s Law](https://lawsofux.com/millers-law/)
-
----
-
-## Copy doesn’t lie
-
-It just takes practice
-to hear what it’s saying.
-
-*Thanks, díky, merci.*
-
-`justin.gagne@apify.com`
 
 <!-- End of deck -->
