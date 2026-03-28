@@ -383,9 +383,9 @@ The filename was hidden. You had to piece together where you were.
 
 ---
 
-## The copy wasn’t there.
+## The information existed
 
-The information existed. The copy wasn’t there to hold your place.
+The copy wasn’t there to hold your place.
 
 ---
 
@@ -431,7 +431,7 @@ Now I don’t know if I want to work this hard.
 
 Some ship on purpose. They’re just as harmful.
 
-Gray means disabled. Placeholder text is grey with poor color contrast by default.
+Gray means disabled. Placeholder text is gray with poor color contrast by default.
 
 - Gone when you need it most
 - Breaks screen readers
@@ -474,13 +474,9 @@ Three patterns. One diagnostic question.
 
 ---
 
-## The copy that isn’t there
-
----
-
 ## Copy that’s missing
 
-If you need a tooltip, the label isn’t done yet.
+*If you need a tooltip, the label isn’t done yet.*
 
 ---
 
@@ -652,8 +648,6 @@ to hear what it’s saying.
 ---
 
 ## Copy that, laws
-
-**UX laws behind each pattern**
 
 - Copy that stops you: [Postel’s Law](https://lawsofux.com/postels-law/)
 - Copy that confuses you: [Jakob’s Law](https://lawsofux.com/jakobs-law/)
