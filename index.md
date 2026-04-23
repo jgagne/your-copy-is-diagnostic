@@ -181,7 +181,7 @@ In the EU, this violates GDPR and ePrivacy law. The banner may also fail accessi
 
 > **Be genuine: write authentically, as if talking to someone face-to-face.**
 >
-> — Apify style guide
+> Apify style guide
 
 ---
 
@@ -320,7 +320,7 @@ We fixed the label. But we didn’t finish the sentence.
 
 > **Be specific: avoid vague statements. Explain clearly and directly.**
 >
-> — Apify style guide
+> Apify style guide
 
 ---
 
@@ -449,7 +449,7 @@ Gray means disabled. Placeholder text is gray with poor color contrast by defaul
 
 > **It’s okay to repeat the same phrases or names for the same things — actually, it’s the preferred way. This is not poetry.**
 >
-> — Apify style guide
+> Apify style guide
 
 ---
 
@@ -589,7 +589,7 @@ You don’t need a diagnosis, just a finding.
 
 > **Get to the point, don’t add fluff, and give them immediate value.**
 >
-> — Apify style guide
+> Apify style guide
 
 ---
 
