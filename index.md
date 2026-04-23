@@ -118,7 +118,7 @@ We and our 512 partners may store and/or access information on your device…
 
 [ I Accept ] [ Reject All ]
 
-Two minutes later you realize there was a Reject All button the whole time.
+Two minutes later you realize there was a “Reject All” button the whole time.
 
 ---
 
@@ -239,13 +239,13 @@ Then the web decided conventions were boring, and native apps followed.
 
 Radio buttons with checkmarks inside.<br>*Twitter (2024)*
 
-![bg right:70% fit Twitter: round radio button with checkmark inside.](https://tonsky.me/blog/checkbox/twitter@2x.png?t=1772581463)
+![bg right:60% fit Twitter: round radio button with checkmark inside.](https://tonsky.me/blog/checkbox/twitter@2x.png?t=1772581463)
 
 ---
 
 Round checkboxes. A 40-year convention, broken.<br>*Apple visionOS (2024)*
 
-![bg right:70% fit Apple visionOS: round checkboxes, breaking a 40-year convention.](https://tonsky.me/blog/checkbox/checkbox_vision@2x.png?t=1772581463)
+![bg right:60% fit Apple visionOS: round checkboxes, breaking a 40-year convention.](https://tonsky.me/blog/checkbox/checkbox_vision@2x.png?t=1772581463)
 
 ---
 
@@ -347,6 +347,7 @@ We fixed the label. But we didn’t finish the sentence.
 TK is one name.
 
 TK comes from print journalism, "to come." The K is intentional.
+
 TK almost never appears in English naturally. Easy to search, no false positives.
 
 ---
