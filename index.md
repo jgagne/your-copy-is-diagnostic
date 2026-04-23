@@ -448,7 +448,8 @@ Gray means disabled. Placeholder text is gray with poor color contrast by defaul
 
 ---
 
-> **It’s okay to repeat the same phrases or names for the same things — actually, it’s the preferred way. This is not poetry.**
+> **It’s okay to repeat the same phrases or names for the same things
+> — actually, it’s the preferred way. This is not poetry.**
 >
 > Apify style guide
 
