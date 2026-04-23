@@ -239,13 +239,13 @@ Then the web decided conventions were boring, and native apps followed.
 
 Radio buttons with checkmarks inside.<br>*Twitter (2024)*
 
-![bg right:60% fit Twitter: round radio button with checkmark inside.](https://tonsky.me/blog/checkbox/twitter@2x.png?t=1772581463)
+![bg right:5% fit Twitter: round radio button with checkmark inside.](https://tonsky.me/blog/checkbox/twitter@2x.png?t=1772581463)
 
 ---
 
 Round checkboxes. A 40-year convention, broken.<br>*Apple visionOS (2024)*
 
-![bg right:60% fit Apple visionOS: round checkboxes, breaking a 40-year convention.](https://tonsky.me/blog/checkbox/checkbox_vision@2x.png?t=1772581463)
+![bg right:65% fit Apple visionOS: round checkboxes, breaking a 40-year convention.](https://tonsky.me/blog/checkbox/checkbox_vision@2x.png?t=1772581463)
 
 ---
 
