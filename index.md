@@ -533,7 +533,7 @@ The label wasn’t done. The tooltip was covering for it.
 
 ---
 
-## Constraint forces creativity
+## Constraints force creativity
 
 If you can’t hide it, you have to design it.
 
