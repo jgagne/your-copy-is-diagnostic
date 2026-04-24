@@ -75,8 +75,7 @@ The copy is where the problem becomes visible.
 When the design makes one option feel inevitable.
 
 ✘ You cannot continue without signing in.
-
-✔ Sign in to continue.
+✓ Sign in to continue.
 
 ---
 
