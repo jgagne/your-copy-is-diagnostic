@@ -158,7 +158,9 @@ Everything seems okay.
 
 Dark overlay. Full block. No reject option at all. You cannot get in.
 
-In the EU, this violates GDPR and ePrivacy law. The banner may also fail accessibility requirements.
+In the EU, this violates GDPR and ePrivacy law.
+
+The banner may also fail accessibility requirements.
 
 ---
 
@@ -212,7 +214,7 @@ The copy isn’t hiding the choice anymore.
 You’ve read both of these. One felt wrong.
 
 ✘ Select the button. Check the box.
-✔ Click the button. Select the checkbox.
+✓ Click the button. Select the checkbox.
 
 ---
 
@@ -565,6 +567,8 @@ If someone can guess the URL, you have something good.
 
 ---
 
+<!-- class: default -->
+
 ## Find one signal
 
 You’ve seen copy that stops, confuses, and goes missing. Find one example.
@@ -580,6 +584,22 @@ You’ve seen copy that stops, confuses, and goes missing. Find one example.
 You don’t need a diagnosis, just a finding.
 
 ---
+
+## What is the copy telling you?
+
+<!-- _class: small-table -->
+
+| Pattern | Signal | Copy diagnostic |
+|---|---|---|
+| Copy that stops you: | One option is harder to choose. The copy feels like a wall. | If your copy stops a user, the product stopped them first. Ask why. |
+| Copy that confuses you: | The verb doesn't match the element. Three words for the same thing. | If the verb feels off, ask who decided. |
+| Copy that needs care: | A TK or placeholder shipped. The copy disappears when you need it. | TK is an open issue. Flag it before you fix it. |
+| Copy that's missing: | You need to explain the label. The URL isn't guessable. | If you need to explain the label, the label isn't done yet. |
+| When you're stuck: | Nothing stands out. Everything feels equally important. | If everything feels important, nothing is. Ask what one thing the copy should say. |
+
+---
+
+<!-- class: invert -->
 
 ## Recognize this pattern?
 
@@ -619,20 +639,6 @@ to hear what it’s saying.
 *Thanks, díky, merci.*
 
 `justin.gagne@apify.com`
-
----
-
-## What is the copy telling you?
-
-<!-- _class: small-table -->
-
-| Pattern | Signal | Copy diagnostic |
-|---|---|---|
-| Copy that stops you: | One option is harder to choose. The copy feels like a wall. | If your copy stops a user, the product stopped them first. Ask why. |
-| Copy that confuses you: | The verb doesn't match the element. Three words for the same thing. | If the verb feels off, ask who decided. |
-| Copy that needs care: | A TK or placeholder shipped. The copy disappears when you need it. | TK is an open issue. Flag it before you fix it. |
-| Copy that's missing: | You need to explain the label. The URL isn't guessable. | If you need to explain the label, the label isn't done yet. |
-| When you're stuck: | Nothing stands out. Everything feels equally important. | If everything feels important, nothing is. Ask what one thing the copy should say. |
 
 ---
 
